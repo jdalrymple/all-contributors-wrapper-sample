@@ -1,0 +1,36 @@
+{
+  "projectName": "all-contributors-wrapper-sample",
+  "projectOwner": "jdalrymple",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 40,
+  "commit": false,
+  "commitConvention": "angular",
+  "wrapperTemplate": "<p><%= bodyContent %></p>",
+  "contributors": [],
+  "contributorsPerLine": 1,
+  "linkToUsage": false,
+  "contributors": [
+    {
+      "login": "jdalrymple",
+      "name": "Justin Dalrymple",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3743662?v=4",
+      "profile": "https://github.com/jdalrymple",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mikew",
+      "name": "Mike Wyatt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4729?v=4",
+      "profile": "https://github.com/mikew",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
